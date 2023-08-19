@@ -4,6 +4,7 @@ use leafwing_input_manager::prelude::InputManagerPlugin;
 
 mod camera;
 mod input;
+mod items;
 mod movement;
 mod player;
 
