@@ -3,6 +3,7 @@ use bevy_rapier3d::prelude::*;
 use leafwing_input_manager::prelude::InputManagerPlugin;
 
 mod camera;
+mod conveyor_belts;
 mod input;
 mod items;
 mod movement;
